@@ -1,0 +1,30 @@
+
+
+.btn-custom {
+    color: #fff;
+    background-color: #80c675;
+    border-color: #80c675;
+}
+
+
+.btn-custom:hover {
+    color: #fff;
+    background-color: green;
+    border-color: green;
+}
+
+
+.bigb{
+
+
+	padding: 10px 0;
+}
+
+.text-custom {
+    color: yellow;
+}
+
+.w_cntr{
+
+margin: 10px 0;
+}
